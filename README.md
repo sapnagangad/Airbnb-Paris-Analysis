@@ -1,5 +1,8 @@
 # Airbnb-Paris-Analysis
 
+[View my Kaggle Project](https://www.kaggle.com/code/yourusername/project-name)
+
+
 ![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
 
 # 🏠 Airbnb Paris Analysis
