@@ -1,6 +1,5 @@
 # Airbnb-Paris-Analysis
-🌐 Connect with me:  
-- [https://www.kaggle.com/code/sapnagangad/airbnb-python-project]
+
 ![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
 
 # 🏠 Airbnb Paris Analysis
